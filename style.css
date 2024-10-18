@@ -39,7 +39,7 @@
 .container:hover #result {
   transform: rotateY(180deg);
 }
-z .container:hover #summary {
+.container:hover #summary {
   transform: rotateY(0deg);
 }
 #summaryTitle {
